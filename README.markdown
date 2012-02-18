@@ -1,4 +1,4 @@
-End Time - Ushahidi Plugin
+Decay Image - Ushahidi Plugin
 ===============
 
 About
@@ -15,14 +15,18 @@ its endtime.
 
 Description
 -----------------
-Creates a field that asks for the end time of an event. For events that aren't instantanious.
+Leveraging the (decayimage)[https://github.com/jetherton/endtime] module this 
+module allow report submitters to assign what happens to incident icons when
+the associated incident ends.  The choices are remove from map and change the
+incident icon to a "decay image".
 
 
 Installation
 -----------------
-1. Copy the entire /endtime/ directory into your /plugins/ directory.
+1. Copy the entire /decayimage/ directory into your /plugins/ directory.
 2. Activate the plugin.
 
 Changelog
 ---------------
-1.0 -- 2011-11-30 -- Now works with Ushahidi 2.1
+.1 -- 2012-02-17 -- Developed on Ushahidi 2.1 the core functionality is still
+being worked out.
