@@ -8,7 +8,7 @@ About
 * description: Adds the ability to decay an icon from an incident map after
 its endtime.
 * version: 1.0
-* requires: 2.0
+* requires: 2.1
 * tested up to: 2.1
 * author: March-Hare Communications Collective
 * author website: http://march-hare.org
