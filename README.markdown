@@ -3,14 +3,15 @@ End Time - Ushahidi Plugin
 
 About
 ---------
-* name: End Time
-* website: https://github.com/jetherton/endtime
-* description: Adds a field for the end time of an event
+* name: Decayimage
+* website: https://github.com/March-Hare/decayimage
+* description: Adds the ability to decay an icon from an incident map after
+its endtime.
 * version: 1.0
 * requires: 2.0
 * tested up to: 2.1
-* author: John Etherton
-* author website: http://johnetherton.com
+* author: March-Hare Communications Collective
+* author website: http://march-hare.org
 
 Description
 -----------------
